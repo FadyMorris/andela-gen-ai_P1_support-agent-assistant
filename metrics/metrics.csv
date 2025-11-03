@@ -1,0 +1,2 @@
+timestamp,tokens_prompt,tokens_completion,total_tokens,latency_ms,estimated_cost_usd
+2025-11-02T21:48:09,181,427,608,8030.98726272583,0.0008992500000000001
