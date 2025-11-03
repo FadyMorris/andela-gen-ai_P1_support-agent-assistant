@@ -27,7 +27,7 @@ After installing the package, you can use it from the command line. Here’s an 
 support-agent --metrics "How can I reset my password if I've forgotten it?"
 ```
 
-You can find a sample notebook with the output in `notebooks/notebook.ipynb`.
+You can find a sample notebook with the output in [`notebooks/notebook.ipynb`](notebooks/notebook.ipynb).
 
 **You should get an answer similar to this:**  
 
@@ -64,7 +64,7 @@ Metrics:
 }
 ```
 
-The metrics are logged in the `metrics/metrics.csv` file, and will look like this:
+The metrics are logged in the [`metrics/metrics.csv`](metrics/metrics.csv) file, and will look like this:
 
 | timestamp           | tokens_prompt | tokens_completion | total_tokens | latency_ms       | estimated_cost_usd |
 |---------------------|---------------|-------------------|--------------|------------------|--------------------|
