@@ -1,5 +1,4 @@
-# P1 Report: Support Agent Assistant
-
+# Project Report: Support Agent Assistant
 ## Architecture Overview
 
 The Support Agent Assistant is a lightweight system that accepts user queries and returns structured JSON responses with confidence estimates and recommended actions. 

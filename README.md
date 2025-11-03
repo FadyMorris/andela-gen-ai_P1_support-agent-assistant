@@ -79,3 +79,6 @@ pytest -vv tests/
 ```
 ## Limitations
 - The assistant serves as a demo. It doesn't have access to a real knowledge base or customer data.
+
+## Project Report
+See [Project Report](reports/PI_report_en.md) for detailed information about the project architecture and development.
