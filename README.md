@@ -21,7 +21,7 @@ Create a `.env` file in the root directory of the project and add your OpenAI AP
 OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxx...xxxxxxxxxxxxx
 ```
 ## Usage
-After installing the package, you can use it from the command line. Here’s an example command to get an answer from the support agent assistant, the `--metrics` flag is used to optionally log performance metrics to a CSV file:
+After installing the package, you can use it from the command line. Here’s an example command to get an answer from the support agent assistant, the `--metrics` flag is used to optionally print the performance metrics to the terminal:
 
 ```bash
 support-agent --metrics "How can I reset my password if I've forgotten it?"
